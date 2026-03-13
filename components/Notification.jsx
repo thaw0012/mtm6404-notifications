@@ -11,6 +11,6 @@ function Notification(props) {
             <button onClick={props.onClear}>clear</button>
         </div>
     );
-}
+} 
 
-export default Notification;
+export default Notification; 
